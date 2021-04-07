@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/conor-deegan/web-app-boilerplate.git"
+    "url": "git+https://github.com/RealAcharnes/test-herokuapp.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/conor-deegan/web-app-boilerplate/issues"
+    "url": "https://github.com/RealAcharnes/test-herokuapp/issues"
   },
-  "homepage": "https://github.com/conor-deegan/web-app-boilerplate#readme",
+  "homepage": "https://github.com/RealAcharnes/test-herokuapp#readme",
   "dependencies": {
     "body-parser": "^1.19.0",
     "concurrently": "^5.2.0",
